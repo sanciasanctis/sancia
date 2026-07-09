@@ -1,9 +1,10 @@
-# *About me*🌷
-### 🏎Interests:
+# *About me*
+### Interests:
 Automobiles
 Robotics
 Mechatronics
-### 📖Hobbies:
+
+### Hobbies:
 Crocheting
 Reading
 Dancing
